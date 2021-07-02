@@ -9,7 +9,7 @@ My particular areas of interest are:
 
 My github stats:
 
-[![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmbecker&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=turing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmbecker&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmbecker&hide=turing,javascript,html,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gmbecker/gmbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
